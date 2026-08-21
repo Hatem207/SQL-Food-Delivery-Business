@@ -1,12 +1,13 @@
 # Food Delivery Business Analysis SQL Project
 
 ## Project Overview
-![Dashboard](https://github.com/Hatem207/SQL-Food-Delivery-Business/blob/main/zomatoERD.png)
 **Project Title**: Food Delivery Business Analysis
 
 **Level**: Intermediate
 
 **Database**: Food Delivery Database
+
+![Dashboard](https://github.com/Hatem207/SQL-Food-Delivery-Business/blob/main/zomatoERD.png)
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore and analyze food delivery business data. The project involves creating a relational database containing customers, restaurants, orders, delivery persons, and deliveries, then using SQL queries to answer real-world business questions.
 
